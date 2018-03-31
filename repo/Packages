@@ -1,15 +1,15 @@
 Package: com.geosn0w.myriam
 Version: 1.0-12
-Section: System Tools
+Section: Utilities
 Maintainer: GeoSn0w <geosn0w@fce365.info>
 Depends: mobilesubstrate
 Provides: com.geosn0w.myriam
 Architecture: iphoneos-arm
 Filename: Files/myriam/com.geosn0w.myriamsecuritychallenges_1.0_iphoneos-arm.deb
-Size: 5222450
-Installed-Size: 5222450
+Size: 5223574
+MD5Sum: 534f9fd8f7b996f3341ae687eeeae192
+Installed-Size: 5223574
 Description: Myriam iOS Security Challenges
 Name: Myriam
 Author: GeoSn0w <geosn0w@fce365.info>
-Depiction: http://geosn0w.github.io/cloud9/repo/Files/myriam.html
-Icon: Files/myriam/icon.png
+Depiction: https://geosn0w.github.io/cloud9/repo/Files/myriam/myriam.html
