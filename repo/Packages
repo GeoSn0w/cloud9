@@ -1,6 +1,6 @@
 Package: com.geosn0w.myriam
 Version: 1.0-12
-Section: System Utilities
+Section: System Tools
 Maintainer: GeoSn0w <geosn0w@fce365.info>
 Depends: mobilesubstrate
 Provides: com.geosn0w.myriam
