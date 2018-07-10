@@ -16,7 +16,7 @@ Depiction: https://geosn0w.github.io/cloud9/repo/Files/myriam/myriam.html
 
 Package: com.geosn0w.nukeUpdates
 Version: 1.0
-Section: Utilities
+Section: Tweaks
 Maintainer: GeoSn0w <geosn0w@fce365.info>
 Depends: mobilesubstrate
 Provides: com.geosn0w.nukeUpdates
