@@ -13,3 +13,19 @@ Description: Myriam iOS Security Challenges
 Name: Myriam
 Author: GeoSn0w <geosn0w@fce365.info>
 Depiction: https://geosn0w.github.io/cloud9/repo/Files/myriam/myriam.html
+
+Package: com.geosn0w.nukeUpdates
+Version: 1.0-1
+Section: Utilities
+Maintainer: GeoSn0w <geosn0w@fce365.info>
+Depends: mobilesubstrate
+Provides: com.geosn0w.nukeUpdates
+Architecture: iphoneos-arm
+Filename: Files/nukeUpdates/com.geosn0w.!!!!
+Size: 5223574 !!!
+MD5Sum: 534f9fd8f7b996f3341ae687eeeae192 !!!
+Installed-Size: 5223574 !!!
+Description: Disables the annoying iOS 11 Beta expired pop ups
+Name: nukeUpdates
+Author: GeoSn0w <geosn0w@fce365.info>
+Depiction: https://geosn0w.github.io/cloud9/repo/Files/myriam/myriam.html
