@@ -15,16 +15,16 @@ Author: GeoSn0w <geosn0w@fce365.info>
 Depiction: https://geosn0w.github.io/cloud9/repo/Files/myriam/myriam.html
 
 Package: com.geosn0w.nukebetapopup
-Version: 0.0.1
+Version: 1.1.1
 Section: Tweaks
 Maintainer: GeoSn0w <geosn0w@fce365.info>
 Depends: mobilesubstrate
 Provides: com.geosn0w.nukebetapopup
 Architecture: iphoneos-arm
 Filename: Files/nukeUpdates/com.geosn0w.nukeUpdates_1.0_iphoneos-arm.deb
-Size: 3274
-MD5Sum: 72016f66485527bdf5b7da7bfbea29f1
-Installed-Size: 3274
+Size: 3342
+MD5Sum: 5da129f1e3273c9118dfb9c886de6b61
+Installed-Size: 3342
 Description: Disables the annoying iOS 11 Beta expired pop ups
 Name: NukeBetaPopUp
 Author: GeoSn0w <geosn0w@fce365.info>
