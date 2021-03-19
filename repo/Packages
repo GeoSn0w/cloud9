@@ -1,6 +1,6 @@
 Package: com.geosn0w.iSecureOS
 Version: 0.1-1 ALPHA NIGHTLY
-Section: Security
+Section: Utilities
 Maintainer: GeoSn0w <geosn0w@fce365.info>
 Depends: mobilesubstrate
 Provides: com.geosn0w.myriam
