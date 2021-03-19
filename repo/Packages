@@ -6,8 +6,8 @@ Depends: mobilesubstrate
 Provides: com.geosn0w.myriam
 Architecture: iphoneos-arm
 Filename: Files/iSecureOS/com.geosn0w.iSecureOS-01.1-ALPHA-NIGHTLY-NON-PROD.deb
-Size: 5223574
-Installed-Size: 5223574
+Size: 76752
+Installed-Size: 76752
 Description: A security application for Jailbroken iOS Devices
 Name: iSecureOS
 Author: GeoSn0w <geosn0w@fce365.info>
