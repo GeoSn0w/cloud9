@@ -12,7 +12,7 @@ my $dpkglibdir="/usr/lib/dpkg"; # This line modified by Makefile
 ($0) = $0 =~ m:.*/(.+):;
 
 push(@INC,$dpkglibdir);
-require 'dpkg-gettext.pl';
+require '/Users/geosn0w/Documents/GitHub/cloud9/repo/dpkg-gettext.pl';
 textdomain("dpkg-dev");
 
 my %kmap= (optional         => 'suggests',
