@@ -12,6 +12,9 @@ Description: A security application for Jailbroken iOS Devices
 Name: iSecureOS
 Author: GeoSn0w <geosn0w@fce365.info>
 Depiction: https://geosn0w.github.io/cloud9/repo/Files/iSecureOS/iSecureOS.html
+MD5Sum: 9b872f77fc55c59a733d3560142e0698
+SHA1: eebff46b6298855bae5ccdcefddb08403c29e9e1
+SHA256: 9116fa8b5dc44f175b97c01d5ff080de0a93c8390acc03405bf5650fdfe9d303
 
 Package: com.geosn0w.myriam
 Version: 1.0-12
