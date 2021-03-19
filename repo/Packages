@@ -14,7 +14,6 @@ Name: iSecureOS
 Author: GeoSn0w <geosn0w@fce365.info>
 Depiction: https://geosn0w.github.io/cloud9/repo/Files/iSecureOS/iSecureOS.html
 
-
 Package: com.geosn0w.myriam
 Version: 1.0-12
 Section: Utilities
